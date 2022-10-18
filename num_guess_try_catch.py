@@ -3,8 +3,6 @@
 # Created on: Oct 17 2022
 # This program asks the user for a number between 0 and 9 and then sees if they got the same number as the computer
 
-
-from logging import exception
 import random
 
 
